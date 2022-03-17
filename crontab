@@ -22,3 +22,4 @@
 #
 # m h  dom mon dow   command
 * * * * * /home/vagrant/Proyecto_Final/script_datos.sh
+
